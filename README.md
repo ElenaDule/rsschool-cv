@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ElenaDule.github.io/rsschool-cv/cv
