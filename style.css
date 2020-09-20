@@ -1,0 +1,45 @@
+body
+{background-image:url("img/foto1.jpg");
+padding: 30px;
+border: 10px;
+margin: auto;
+width: auto;
+height: auto;
+}
+p
+{font-size: large;
+font-weight:bold;
+text-decoration: underline;
+}
+div {
+    font-style: italic;
+    font-size: 16px;
+}
+span {
+font-size: 14px;
+}
+ .personPhoto {
+     border-radius: 50px;
+ }
+table {
+    width: auto;
+    height: auto;
+
+}
+td {
+    vertical-align: top;
+
+}
+
+.width {
+    width: auto;
+}
+.width1 {
+    width: 85%;
+}
+h1 {
+
+}
+tr {
+ text-align: left;
+}
